@@ -1,0 +1,2 @@
+C:\Users\Karol\testeArgo\argoteste\TesteArgo\obj\Debug\TesteArgo.csprojAssemblyReference.cache
+C:\Users\Karol\testeArgo\argoteste\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
