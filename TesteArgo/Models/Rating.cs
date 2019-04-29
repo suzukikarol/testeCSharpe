@@ -1,0 +1,10 @@
+﻿using System;
+
+public class Rating
+{
+	public Rating()
+	{
+        public string Source { get; set; }
+        public string Value { get; set; }
+    }
+}
